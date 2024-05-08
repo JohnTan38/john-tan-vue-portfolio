@@ -7,7 +7,7 @@ import ProjectGallery from "../components/ProjectGallery.vue";
 <template>
   <BasePage grayscale id="landing">
     <div class="intro">
-      <p>Annika.</p>
+      <p>John.</p>
       <h1>Data loving developer.</h1>
       <a href="#project-section" class="line bottom landing-link">projects</a>
     </div>
