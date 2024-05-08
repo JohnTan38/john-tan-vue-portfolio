@@ -10,7 +10,7 @@ window.onscroll = () => hideHeader.value = window.scrollY > 10;
 <template>
     <header>
     <nav :class="{ scrolled: hideHeader }">
-      <a href="https://github.com/annika-klu" target="blank" class="line top" :class="{ dark: route.path !== '/' }">
+      <a href="https://github.com/JohnTan38" target="blank" class="line top" :class="{ dark: route.path !== '/' }">
         <img src="https://github.com/favicon.ico" class="github-logo" alt="github icon" />
       </a>
       <RouterLink v-if="route.path !== '/'" class="line top dark" to="/">home</RouterLink>
