@@ -1,4 +1,3 @@
-# Annika Kluepfel | Full Stack Web Developer
+# John Tan | Data Analyst | hobby Full Stack Developer
 
-Welcome! This is my portfolio website, built in Vue.js.
-
+Welcome to my portfolio website! Built with Vue.js.
