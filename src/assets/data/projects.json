@@ -13,8 +13,8 @@
         "id": 2,
         "title": "Weather App",
         "technologies": ["Vue", "HTML", "CSS", "JavaScript"],
-        "liveUrl": "https://umbrella-or-not.onrender.com/",
-        "githubUrl": "https://github.com/Annika-Klu/weather-app",
+        "liveUrl": "https://weather-blush-nu.vercel.app/",
+        "githubUrl": "https://github.com/JohnTan38/weather",
         "description": "A vue app displaying weather data retrieved from an express backend that uses the openweathermap API. Sets a random unsplash image of the requested location as the background image.",
         "imgSrc": "https://iili.io/HZU8mbe.jpg"
     },
