@@ -20,11 +20,11 @@
     },
     {
         "id": 3,
-        "title": "Artist Portfolio",
-        "technologies": ["Vue", "Nuxt", "HTML", "CSS", "JavaScript"],
-        "liveUrl": "https://art.annonymous.de",
-        "githubUrl": "https://github.com/Annika-Klu/annonymous-art",
-        "description": "Minmalistic artist portfolio. Needs some revision of mobile layout.",
+        "title": "AI Chat",
+        "technologies": ["LLM", "NextJS", "HTML", "CSS", "TypeScript"],
+        "liveUrl": "https://better-chat-gpt-alpha-ten.vercel.app/",
+        "githubUrl": "https://github.com/JohnTan38/BetterChatGPT",
+        "description": "AI Chat. OpenAI LLM.",
         "imgSrc": "https://iili.io/HZU6uRV.png"
     },
     {
