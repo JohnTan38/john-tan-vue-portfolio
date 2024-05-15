@@ -21,11 +21,11 @@
     {
         "id": 3,
         "title": "AI Enabled Data Visualizations",
-        "technologies": ["LLM", "Streamlit", "HTML", "Python"],
+        "technologies": ["GPT-4", "Streamlit", "HTML", "Python"],
         "liveUrl": "https://liddie.streamlit.app/",
         "githubUrl": "https://github.com/JohnTan38/liddie",
         "description": "AI enabled auto-generated data visualizations.",
-        "imgSrc": "https://iili.io/HZU6uRV.png"
+        "imgSrc": "https://freeimage.host/i/J6XimPI"
     },
     {
         "id": 4,
@@ -34,15 +34,15 @@
         "liveUrl": "https://better-chat-gpt-alpha-ten.vercel.app/",
         "githubUrl": "https://github.com/JohnTan38/BetterChatGPT",
         "description": "AI Chat. OpenAI LLM.",
-        "imgSrc": "https://iili.io/HZU6uRV.png"
+        "imgSrc": "https://freeimage.host/i/J6XimPI"
     },
     {
         "id": 5,
-        "title": "This Dev Portfolio",
-        "technologies": ["Vue", "HTML", "CSS", "JavaScript"],
-        "liveUrl": null,
-        "githubUrl": "https://github.com/JohnTan38/john-tan.github.io",
-        "description": "A simple vue app with a custom design. Uses a workflow to automatically deploy a build on pushing to master.",
-        "imgSrc": "https://iili.io/HZwZuVf.png"
+        "title": "Chat 2 Viz",
+        "technologies": ["GPT-4", "HTML", "CSS", "Python"],
+        "liveUrl": "https://chat2viz.streamlit.app",
+        "githubUrl": "https://github.com/JohnTan38/chat2viz",
+        "description": "An AI enabled app from chat to data visualizations.",
+        "imgSrc": "https://freeimage.host/i/J6Xrx4"
     }
 ]
