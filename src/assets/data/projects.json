@@ -25,7 +25,7 @@
         "liveUrl": "https://liddie.streamlit.app/",
         "githubUrl": "https://github.com/JohnTan38/liddie",
         "description": "AI enabled auto-generated data visualizations.",
-        "imgSrc": "https://freeimage.host/i/J6XimPI"
+        "imgSrc": "https://iili.io/J6XimPI.jpg"
     },
     {
         "id": 4,
@@ -34,7 +34,7 @@
         "liveUrl": "https://better-chat-gpt-alpha-ten.vercel.app/",
         "githubUrl": "https://github.com/JohnTan38/BetterChatGPT",
         "description": "AI Chat. OpenAI LLM.",
-        "imgSrc": "https://freeimage.host/i/J6XmpvS"
+        "imgSrc": "https://iili.io/J6XmpvS.jpg"
     },
     {
         "id": 5,
@@ -43,6 +43,6 @@
         "liveUrl": "https://chat2viz.streamlit.app",
         "githubUrl": "https://github.com/JohnTan38/chat2viz",
         "description": "An AI enabled app from chat to data visualizations.",
-        "imgSrc": "https://freeimage.host/i/J6Xrx4"
+        "imgSrc": "https://iili.io/J6Xrx4.jpg"
     }
 ]
