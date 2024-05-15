@@ -20,15 +20,24 @@
     },
     {
         "id": 3,
+        "title": "AI Enabled Data Visualizations",
+        "technologies": ["LLM", "Streamlit", "HTML", "Python"],
+        "liveUrl": "https://liddie.streamlit.app/",
+        "githubUrl": "https://github.com/JohnTan38/liddie",
+        "description": "AI enabled auto-generated data visualizations.",
+        "imgSrc": "https://iili.io/HZU6uRV.png"
+    },
+    {
+        "id": 4,
         "title": "AI Chat",
-        "technologies": ["LLM", "NextJS", "HTML", "CSS", "TypeScript"],
+        "technologies": ["GPT-4", "NextJS", "HTML", "CSS", "TypeScript"],
         "liveUrl": "https://better-chat-gpt-alpha-ten.vercel.app/",
         "githubUrl": "https://github.com/JohnTan38/BetterChatGPT",
         "description": "AI Chat. OpenAI LLM.",
         "imgSrc": "https://iili.io/HZU6uRV.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "This Dev Portfolio",
         "technologies": ["Vue", "HTML", "CSS", "JavaScript"],
         "liveUrl": null,
